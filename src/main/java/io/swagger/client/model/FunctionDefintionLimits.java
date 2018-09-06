@@ -26,7 +26,7 @@ import java.io.IOException;
 /**
  * FunctionDefintionLimits
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2018-09-03T08:03:12.683+02:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2018-09-06T06:46:10.176+02:00")
 public class FunctionDefintionLimits {
   @SerializedName("memory")
   private String memory = null;
